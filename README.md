@@ -13,7 +13,7 @@ Test teorii gier 3.6.ipynb - A program that runs a simulation in evolutionary ga
 Wyniki_badania.xlsx - Example simulation result.
 
 Całościowa analiza wyników.ipynb - A file used to analyze and visualisation simulation results.
-#### Support files
+#### Project support files
 Macierz sąsiedztwa.xlsx - A file to help design location neighborhood matrices.
 
 Testy.ipynb and Test wydajności.ipynb - Files in which the computational efficiency of different solutions was compared (e.g., the speedup resulting from storing data in np.array instead of pd.DataFrame).
