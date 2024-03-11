@@ -2,7 +2,7 @@
 The goal of the project was to create a simulator to test evolutionary game theory. Evolutionary games are a combination of game theory and biology aimed at studying the evolutionary processes between individuals. The most important difference 
 between classical and evolutionary games is iteration. This program runs a simulation based on an iterated prisoner's dilemma. 
 
-A more detailed description follows.
+More detailed description below.
 # Inspiration
 The project is inspired by the research of **Robert Axelrod** , who used the iterated prisoner's dilemma to study the occurrence of altruistic behavior. The result of his study was that the most effective strategy in for this simulation was 
 "tit for tat." An agent using this strategy will first cooperate, then subsequently replicate an opponent's previous action. If the opponent previously was cooperative, the agent is cooperative. If not, the agent is not.
